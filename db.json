@@ -3,25 +3,25 @@
     {
       "id": 1,
       "name": "Godzilla",
-      "power": "Atomic Breath",
+      "power": "Atomic BreathEE",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71Q1ckgmeQL._SX425_.jpg"
     },
     {
       "id": 2,
       "name": "Mothra",
-      "power": "Poison Powder",
+      "power": "Poison Powders",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61Jp8FUo27L._SX466_.jpg"
     },
     {
       "id": 3,
       "name": "King Kong",
-      "power": "Banana",
+      "power": "Climbing High so high",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71IPfsG7AsL._SX425_.jpg"
     },
     {
       "id": 4,
       "name": "Gidorah",
-      "power": "Lightning breath",
+      "power": "Lightning Breath !!",
       "image": "https://i.ebayimg.com/images/g/kskAAOSwp2VdldA4/s-l640.jpg"
     }
   ],
